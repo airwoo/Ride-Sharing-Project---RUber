@@ -8,3 +8,5 @@ http://ec2-204-236-253-195.compute-1.amazonaws.com:8080/cs336Final/Login.jsp
 ----Amazon EC2 and Apache Tomcat credentials----
 
 http://ec2-204-236-253-195.compute-1.amazonaws.com:8080/
+
+! DATABASE IS CURRENTLY DOWN !
